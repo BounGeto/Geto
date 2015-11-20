@@ -1,4 +1,4 @@
-include <../dimlines/dimlines.scad>
+include <dimlines/dimlines.scad>
 include <variables.txt>
 
 
